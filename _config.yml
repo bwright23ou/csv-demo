@@ -8,9 +8,9 @@
 # URL VARIABLES
 #
 # site domain, full URL to the production location of your collection
-url: 
+url: https://bwright23.github.io
 # path to location on the domain if necessary e.g. /digital/hjccc
-baseurl: 
+baseurl: /csv-demo
 # location of code, the full url to your github repository
 source-code: https://github.com/oralhistoryasdata/template
 
@@ -18,7 +18,7 @@ source-code: https://github.com/oralhistoryasdata/template
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: Oral History as Data Template/Demo
+title: CSV Demo Repo
 # tagline, a short phrase that will appear throughout the site in the top banner
 tagline: Analyze and publish coded oral history and qualitative interviews
 # description appears in meta tags and other locations
@@ -32,7 +32,7 @@ author: dcnb
 #
 # Set the metadata for your collection (the name of the CSV file in your _data directory that describes the objects in your collection) 
 # Use the filename of your CSV **without** the ".csv" extension! E.g. _data/demo-metadata.csv --> "demo-metadata"
-metadata: demo-ohd-metadata 
+metadata: csv-demo-metadata
 # page generation settings [optional!]
 # [optional: only used if you need to tweak CB defaults or generate from more than one data file]
 # page_gen:
